@@ -1068,7 +1068,7 @@ pre code {
 /* = = = = = = = = = = Post-Card Styles = = = = = = = = = = */
 .post-card-box {
   margin: 100px 0 100px;
-  padding: 10px;
+  padding: 100px;
 }
 
 .post-card-box li {
@@ -1148,7 +1148,7 @@ pre code {
   text-decoration: none;
   font-size: 10px;
   text-transform: uppercase;
-  color: #fff;
+  color: #blue;
 }
 
 .post-card .post-card-body .tag:hover {
