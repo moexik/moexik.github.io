@@ -1068,7 +1068,7 @@ pre code {
 /* = = = = = = = = = = Post-Card Styles = = = = = = = = = = */
 .post-card-box {
   margin: 100px 0 100px;
-  padding: 100px;
+  padding: 0;
 }
 
 .post-card-box li {
@@ -1124,7 +1124,7 @@ pre code {
   font: bold 15px/18px 'Lato', sans-serif;
   height: 18px;
   margin: 0 5px 0 5px;
-  padding: 0;
+  padding: 100px;
   position: relative;
   text-align: left;
   text-decoration: none;
@@ -1148,11 +1148,11 @@ pre code {
   text-decoration: none;
   font-size: 10px;
   text-transform: uppercase;
-  color: #blue;
+  color: #fff;
 }
 
 .post-card .post-card-body .tag:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 /* = = = = = = = = = = Pagination Styles = = = = = = = = = = */
