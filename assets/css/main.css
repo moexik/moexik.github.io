@@ -1068,14 +1068,14 @@ pre code {
 /* = = = = = = = = = = Post-Card Styles = = = = = = = = = = */
 .post-card-box {
   margin: 100px 0 100px;
-  padding: 100px;
+  padding: 0;
 }
 
 .post-card-box li {
   position: relative;
   list-style: none;
   float: left;
-  width: 100%;
+  width: 50%;
   -webkit-transition: all .3s;
   transition: all .3s;
 }
